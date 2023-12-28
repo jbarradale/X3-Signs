@@ -1,0 +1,17 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "9C7D3B0B9B9B119589ADFF46B008F136064565EC",
+			"Assets": [
+				"/X3-Signs/ColorPickers/Demo/BasicDemoMat"
+			]
+		},
+		{
+			"ShaderMapHash": "94B732584AC4CF8BA0EFC0F84293B56D8DB182AD",
+			"Assets": [
+				"/X3-Signs/ColorPickers/Materials/M_SquareGrading_mat"
+			]
+		}
+	]
+}

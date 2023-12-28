@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.0.8",
+	"FriendlyName": "X3-Signs",
+	"Description": "Sign Mod by x3000x Updated by JustNotG00d",
+	"Category": "Modding",
+	"CreatedBy": "X3000x",
+	"CreatedByURL": "https://ficsit.app/mod/C95K7wsTwPjcz5",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.6.0"
+		}
+	],
+	"SemVersion": "1.0.0"
+}

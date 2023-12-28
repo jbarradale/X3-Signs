@@ -1,0 +1,2648 @@
+{
+	"Files": [
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Cats/BC_X3Signs.uasset",
+			"ChunkId": "ae4dc661e46aeaf800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Cats/CatIconTest.uasset",
+			"ChunkId": "c05d9b94b591986900000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Cats/CatIconTestTransp.uasset",
+			"ChunkId": "837778ad2aaeeaea00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Cats/SC_X3SignsCeiling.uasset",
+			"ChunkId": "696f16625c670c0b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Cats/SC_X3SignsFloor.uasset",
+			"ChunkId": "66881b45a2e461ce00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Cats/SC_X3SignsHighway.uasset",
+			"ChunkId": "92c17e6ad1a4289a00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Cats/SC_X3SignsV2_Conveyor.uasset",
+			"ChunkId": "f5369eed4f566e3e00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Cats/SC_X3SignsV2_Large.uasset",
+			"ChunkId": "0218aaf8abc4fea700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Cats/SC_X3SignsV2_Medium.uasset",
+			"ChunkId": "aea206899c73c44000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Cats/SC_X3SignsWall.uasset",
+			"ChunkId": "07d13d29a1bd6c7900000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Cats/SC_X3SignsWallSide.uasset",
+			"ChunkId": "9625a1874b2d40f400000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Cats/SC_X3SignsWallSide_v2__OLD.uasset",
+			"ChunkId": "4cec87ff28e86b7500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Ceilling/CeillingLarge/Desc_X3Sign_CeillingLarge.uasset",
+			"ChunkId": "fbbf9e467f8b4ad100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Ceilling/CeillingLarge/Recipe_X3Sign_CeillingLarge.uasset",
+			"ChunkId": "36a0108435ed17f300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Ceilling/CeillingMedium/Desc_X3Sign_CeillingMedium.uasset",
+			"ChunkId": "3a0698f70383dfca00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Ceilling/CeillingMedium/Recipe_X3Sign_CeillingMedium.uasset",
+			"ChunkId": "fa32c33ab15cc5f000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Ceilling/CeillingSmall/Desc_X3Sign_CeillingSmall.uasset",
+			"ChunkId": "cb2eb62104a6873700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Ceilling/CeillingSmall/Recipe_X3Sign_CeillingSmall.uasset",
+			"ChunkId": "5a675f3449c539cc00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Ceilling/CellingSmallConveyor/Desc_X3Sign_CeillingSmallConveyor.uasset",
+			"ChunkId": "f50070430acff85100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Ceilling/CellingSmallConveyor/Recipe_X3Sign_CeillingSmallConveyor.uasset",
+			"ChunkId": "c759d8be63f4085d00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Demo/BasicDemoMat.uasset",
+			"ChunkId": "8cf5161f05ad3bfc00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Demo/DemoLevel.umap",
+			"ChunkId": "bf1f36ebe1d0d79400000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Demo/DemoLevel_BuiltData.uasset",
+			"ChunkId": "0f3b91b5ba00870700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Demo/DemoLevel_BuiltData.ubulk",
+			"ChunkId": "0f3b91b5ba00870700000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Demo/UMG_Demo.uasset",
+			"ChunkId": "98dcdb16c1f0336600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/M_ColorGrading_MatInst.uasset",
+			"ChunkId": "d8a53bc3f2b4974b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/M_HueGrading_mat.uasset",
+			"ChunkId": "1d022ef673b9fce800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/M_LinearGradient_Blue_Inst.uasset",
+			"ChunkId": "2ec315f2badbede400000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/M_LinearGradient_Green_Inst.uasset",
+			"ChunkId": "a8f8d8259197a11600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/M_LinearGradient_mat.uasset",
+			"ChunkId": "b13570eb4c02f61100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/M_LinearGradient_Red_Inst.uasset",
+			"ChunkId": "9f458646a006e2fe00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/M_LinearGrading.uasset",
+			"ChunkId": "85fe5b5174e388df00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/M_LinearGrading_Dark_to_light_mat.uasset",
+			"ChunkId": "c643cc2f8eb3037100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/M_LinearGrading_light_to_dark_mat.uasset",
+			"ChunkId": "235ec632ea650e3900000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/M_Selector_mat.uasset",
+			"ChunkId": "e160c64628a8c68700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/M_Slider_Selector_mat_Inst.uasset",
+			"ChunkId": "6f5f5a604689be5200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/M_SquareGrading_mat.uasset",
+			"ChunkId": "df8ae8971d6ac28300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_circle_black_64.uasset",
+			"ChunkId": "c07e128ca500811b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_Circle_Selector.uasset",
+			"ChunkId": "677babc76b09519200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_ColorSpectrum.uasset",
+			"ChunkId": "8843d24a15e5359a00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_ColorSpectrum.ubulk",
+			"ChunkId": "8843d24a15e5359a00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_ColorWheel.uasset",
+			"ChunkId": "42dc58b7e4a7507700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_double_outline_circle_black_64.uasset",
+			"ChunkId": "7e4ed472b5437fe400000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_HueGrading16.uasset",
+			"ChunkId": "48d6bec02c842d5b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_HueGrading16.ubulk",
+			"ChunkId": "48d6bec02c842d5b00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_HueGrading32.uasset",
+			"ChunkId": "95d91e14621aa0a700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_HueGrading32.ubulk",
+			"ChunkId": "95d91e14621aa0a700000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_HueGrading64.uasset",
+			"ChunkId": "db379895e7bdcfcc00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_HueGrading64.ubulk",
+			"ChunkId": "db379895e7bdcfcc00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_HueSatGrading.uasset",
+			"ChunkId": "0ec7b5922660aba700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_HueSatGrading.ubulk",
+			"ChunkId": "0ec7b5922660aba700000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_HueWheel.uasset",
+			"ChunkId": "73bbdce5c757e44f00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_HueWheel.ubulk",
+			"ChunkId": "73bbdce5c757e44f00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_outline_circle_black_thicker_64.uasset",
+			"ChunkId": "9b797859eb6a65bb00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_rounded_rect_white.uasset",
+			"ChunkId": "e75e48ee409b00ba00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_rounded_square_black_64.uasset",
+			"ChunkId": "93be42ac526fa13d00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/Materials/T_smaller_circle_black_128.uasset",
+			"ChunkId": "6ee4c61690d0258100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/SubComponents/CP_SC_2CmpPicker.uasset",
+			"ChunkId": "8e104f923d6a615100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/SubComponents/CP_SC_BaseColorPicker.uasset",
+			"ChunkId": "ef422e5d3a6ace2b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/SubComponents/CP_SC_BaseSelector.uasset",
+			"ChunkId": "ef7e47760cbac72900000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/SubComponents/CP_SC_HueColorWheelPicker.uasset",
+			"ChunkId": "980bfcc49695b86200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/SubComponents/CP_SC_HueSlider_H.uasset",
+			"ChunkId": "0962aca45548e75b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/SubComponents/CP_SC_RGBSlider_H.uasset",
+			"ChunkId": "7b38383a63d8c8dd00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/SubComponents/CP_SC_SatSlider_H.uasset",
+			"ChunkId": "c0ee159870fba47900000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/SubComponents/CP_SC_SelectorDrag.uasset",
+			"ChunkId": "41fe42a43143291b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/SubComponents/CP_SC_ValueSlider_H.uasset",
+			"ChunkId": "61a2f8ced4d22bba00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/ColorPickers/SubComponents/EColorChannel.uasset",
+			"ChunkId": "de4a19ce054f441700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorCenter/Desc_X3Sign_FloorCenter.uasset",
+			"ChunkId": "171f16eecab0fc6c00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorCenter/Recipe_X3Sign_FloorCenter.uasset",
+			"ChunkId": "6b6e44bd3ecf698200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorHighwayExtraLarge/Desc_X3Sign_FloorHighwayExtraLarge.uasset",
+			"ChunkId": "9a7dc079d4d3f1f600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorHighwayExtraLarge/Recipe_X3Sign_FloorHighwayExtraLarge.uasset",
+			"ChunkId": "d52e43414f1b14e600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorHighwayLarge/Desc_X3Sign_FloorHighwayLarge.uasset",
+			"ChunkId": "990161f405ec276a00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorHighwayLarge/Recipe_X3Sign_FloorHighwayLarge.uasset",
+			"ChunkId": "3bf27d33b026b16800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorHighwayMedium/Desc_X3Sign_FloorHighwayMedium.uasset",
+			"ChunkId": "a740d743d18bec6d00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorHighwayMedium/Recipe_X3Sign_FloorHighwayMedium.uasset",
+			"ChunkId": "dc84855f91a8f95800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorHighwaySmall/Desc_X3Sign_FloorHighwaySmall.uasset",
+			"ChunkId": "cec366f13c0cd7fd00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorHighwaySmall/Recipe_X3Sign_FloorHighwaySmall.uasset",
+			"ChunkId": "9d18ab0e58e54e6a00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorLarge/Desc_X3Sign_FloorLarge.uasset",
+			"ChunkId": "a81359b64da2b76f00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorLarge/Recipe_X3Sign_FloorLarge.uasset",
+			"ChunkId": "c5862f9fd404429300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorMedium/Desc_X3Sign_FloorMedium.uasset",
+			"ChunkId": "8a9520e5e2bf63b700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorMedium/Recipe_X3Sign_FloorMedium.uasset",
+			"ChunkId": "dd29f87671ab52fe00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorSmall/Desc_X3Sign_FloorSmall.uasset",
+			"ChunkId": "175ab4feaeeae3d100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorSmall/Recipe_X3Sign_FloorSmall.uasset",
+			"ChunkId": "eef46a1112956cf500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorSmallConveyor/Desc_X3Sign_FloorSmallConveyor.uasset",
+			"ChunkId": "db074bdc3518763300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Floor/FloorSmallConveyor/Recipe_X3Sign_FloorSmallConveyor.uasset",
+			"ChunkId": "b27ff1080f67357600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icon_X3Signs_Mk1.uasset",
+			"ChunkId": "05b37ec665cfebdb00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icon_X3Signs_Mk1.ubulk",
+			"ChunkId": "05b37ec665cfebdb00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_buildmenu.uasset",
+			"ChunkId": "c569af94d5e6bf5600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Conveyor_CeilingT.uasset",
+			"ChunkId": "a68acd3310661dec00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Conveyor_CeilingT.ubulk",
+			"ChunkId": "a68acd3310661dec00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Conveyor_FloorT.uasset",
+			"ChunkId": "5ab61023987d1b8f00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Conveyor_FloorT.ubulk",
+			"ChunkId": "5ab61023987d1b8f00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Conveyor_FrontT.uasset",
+			"ChunkId": "e5ffebfddfd1939200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Conveyor_FrontT.ubulk",
+			"ChunkId": "e5ffebfddfd1939200000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Conveyor_HoleT.uasset",
+			"ChunkId": "f26f2c51a1259fc000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Conveyor_HoleT.ubulk",
+			"ChunkId": "f26f2c51a1259fc000000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Conveyor_SideT.uasset",
+			"ChunkId": "324100fd1558186400000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Conveyor_SideT.ubulk",
+			"ChunkId": "324100fd1558186400000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Conveyor_StackT.uasset",
+			"ChunkId": "16aed77f35d91a5b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Conveyor_StackT.ubulk",
+			"ChunkId": "16aed77f35d91a5b00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Large_CeilingT.uasset",
+			"ChunkId": "fc7e5ea539fe9c7500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Large_CeilingT.ubulk",
+			"ChunkId": "fc7e5ea539fe9c7500000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Large_FloorT.uasset",
+			"ChunkId": "05581cb7fbdd0ef100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Large_FloorT.ubulk",
+			"ChunkId": "05581cb7fbdd0ef100000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Large_FrontT.uasset",
+			"ChunkId": "a178566174d3cd4100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Large_FrontT.ubulk",
+			"ChunkId": "a178566174d3cd4100000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Large_SideT.uasset",
+			"ChunkId": "ed8fd869bcf3f30e00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Large_SideT.ubulk",
+			"ChunkId": "ed8fd869bcf3f30e00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Medium_CeilingT.uasset",
+			"ChunkId": "3825aaadb9f27d3500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Medium_CeilingT.ubulk",
+			"ChunkId": "3825aaadb9f27d3500000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Medium_FloorT.uasset",
+			"ChunkId": "0b78e6ba1b952d4300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Medium_FloorT.ubulk",
+			"ChunkId": "0b78e6ba1b952d4300000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Medium_FrontT.uasset",
+			"ChunkId": "28080d343b426a4700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Medium_FrontT.ubulk",
+			"ChunkId": "28080d343b426a4700000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Medium_SideT.uasset",
+			"ChunkId": "3f509f43a06824e700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/v2/X3SignV2_Medium_SideT.ubulk",
+			"ChunkId": "3f509f43a06824e700000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_CeillingLarge.uasset",
+			"ChunkId": "6d900137ac29753800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_CeillingMedium.uasset",
+			"ChunkId": "d56388a5ff55ddf900000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_CeillingSmall.uasset",
+			"ChunkId": "3137e10d73d9b5da00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_CeillingSmallConveyor.uasset",
+			"ChunkId": "96a39b7dc151293600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_FloorCenter.uasset",
+			"ChunkId": "50c110cb50b339d300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_FloorCenter.ubulk",
+			"ChunkId": "50c110cb50b339d300000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_FloorHighwayExtraLarge.uasset",
+			"ChunkId": "81abd41a756947c300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_FloorHighwayExtraLarge.ubulk",
+			"ChunkId": "81abd41a756947c300000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_FloorHighwayLarge.uasset",
+			"ChunkId": "e77ea4b15758077c00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_FloorHighwayLarge.ubulk",
+			"ChunkId": "e77ea4b15758077c00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_FloorHighwayMedium.uasset",
+			"ChunkId": "81b2d14bedc3d8fb00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_FloorHighwayMedium.ubulk",
+			"ChunkId": "81b2d14bedc3d8fb00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_FloorHighwaySmall.uasset",
+			"ChunkId": "e3959e39d583905a00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_FloorHighwaySmall.ubulk",
+			"ChunkId": "e3959e39d583905a00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_FloorLarge.uasset",
+			"ChunkId": "8366404b6af1af5b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_FloorMedium.uasset",
+			"ChunkId": "2ddd57d63e2521c800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_FloorSmall.uasset",
+			"ChunkId": "f1e54b64fe0a91dd00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_FloorSmallConveyor.uasset",
+			"ChunkId": "02e46961323be9b000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_WallFrontLarge.uasset",
+			"ChunkId": "3b47b72533b00b4500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_WallFrontMedium.uasset",
+			"ChunkId": "1fdebf7f684ecbd700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_WallFrontSmall.uasset",
+			"ChunkId": "3dfa4190fb6d4e0f00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_WallFrontSmallConveyor.uasset",
+			"ChunkId": "9c8f2c19f3f02aad00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_WallFrontSmallConveyor.ubulk",
+			"ChunkId": "9c8f2c19f3f02aad00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_WallSideLarge.uasset",
+			"ChunkId": "43220c8c556dbdf000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_WallSideMedium.uasset",
+			"ChunkId": "c93e834b42c8218b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_WallSideSmall.uasset",
+			"ChunkId": "16c655e348b5537700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_WallSideSmallConveyor.uasset",
+			"ChunkId": "feb65a34cd63955500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Icons/X3Sign_WallSideSmallConveyor.ubulk",
+			"ChunkId": "feb65a34cd63955500000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/InitGameInstance.uasset",
+			"ChunkId": "1e1ad74300de041000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/InitGameWorld.uasset",
+			"ChunkId": "0ccb6b2e520a46c600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/logo_app2.uasset",
+			"ChunkId": "60ef250548ff573c00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Master/BP_X3Sign.uasset",
+			"ChunkId": "c73d1065acc58d5d00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Master/Enum_SignShape.uasset",
+			"ChunkId": "17a8110b6650551400000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Master/M2CBold.uasset",
+			"ChunkId": "9b756756b446a7cd00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Master/M2CBold_Font.uasset",
+			"ChunkId": "944df65f0095146200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Master/M2CBold_Font_TextMaterial.uasset",
+			"ChunkId": "cd0d118a403cf28800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Master/SignConfig.uasset",
+			"ChunkId": "e39d5b31918e77aa00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Master/SignConfigSaveGame.uasset",
+			"ChunkId": "61992a4787635bcc00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Master/SignSettingsStruct.uasset",
+			"ChunkId": "d5138b7f6ce307ab00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Master/Widget_X3Sign.uasset",
+			"ChunkId": "94301ae51f9acd0f00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/ArrowHelper/X3SignsArrowHelperMat.uasset",
+			"ChunkId": "0d1578bbcce54ea100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/ArrowHelper/X3SignsArrowHelperTex.uasset",
+			"ChunkId": "d96c8bba1ab6747d00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/ScratchedPaintedSteel_Mat.uasset",
+			"ChunkId": "c5a407d858cfe8cd00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/ScratchedPaintedSteel_sefndiic_2K_Albedo.uasset",
+			"ChunkId": "4d356b45a77c2f8300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/ScratchedPaintedSteel_sefndiic_2K_Albedo.ubulk",
+			"ChunkId": "4d356b45a77c2f8300000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/ScratchedPaintedSteel_sefndiic_2K_Displacement.uasset",
+			"ChunkId": "4598027fd5c4dd5000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/ScratchedPaintedSteel_sefndiic_2K_Displacement.ubulk",
+			"ChunkId": "4598027fd5c4dd5000000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/ScratchedPaintedSteel_sefndiic_2K_Metalness.uasset",
+			"ChunkId": "f42e56aeac7eb09a00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/ScratchedPaintedSteel_sefndiic_2K_Metalness.ubulk",
+			"ChunkId": "f42e56aeac7eb09a00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/ScratchedPaintedSteel_sefndiic_2K_Normal.uasset",
+			"ChunkId": "442088327d12d58b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/ScratchedPaintedSteel_sefndiic_2K_Normal.ubulk",
+			"ChunkId": "442088327d12d58b00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/ScratchedPaintedSteel_sefndiic_2K_Roughness.uasset",
+			"ChunkId": "a170dbdce1627d2b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/ScratchedPaintedSteel_sefndiic_2K_Roughness.ubulk",
+			"ChunkId": "a170dbdce1627d2b00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/T_Imperfections_Stains_Mask.uasset",
+			"ChunkId": "ba7586dc58d82bd600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/T_Imperfections_Stains_Mask.ubulk",
+			"ChunkId": "ba7586dc58d82bd600000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/T_Imperfections_Wipe_Mask.uasset",
+			"ChunkId": "9bcc4375a62d9edd00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/T_Imperfections_Wipe_Mask.ubulk",
+			"ChunkId": "9bcc4375a62d9edd00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/T_Steel_Brushed_BC.uasset",
+			"ChunkId": "039b95f9cf1c7fad00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/T_Steel_Brushed_BC.ubulk",
+			"ChunkId": "039b95f9cf1c7fad00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/T_Steel_Brushed_Mat.uasset",
+			"ChunkId": "7a499e5b69cbfbe700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/T_Steel_Brushed_N.uasset",
+			"ChunkId": "f93464e76c55030800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/T_Steel_Brushed_N.ubulk",
+			"ChunkId": "f93464e76c55030800000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/T_Steel_Brushed_R.uasset",
+			"ChunkId": "ec71a068b944693b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Pole/T_Steel_Brushed_R.ubulk",
+			"ChunkId": "ec71a068b944693b00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminum_DynamicBG_Mat.uasset",
+			"ChunkId": "7477bbe48469a22d00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminum_Mat.uasset",
+			"ChunkId": "9f60038a17575ef100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminum_shkaaafc_2K_Albedo.uasset",
+			"ChunkId": "6d3899647185014c00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminum_shkaaafc_2K_Albedo.ubulk",
+			"ChunkId": "6d3899647185014c00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminum_shkaaafc_2K_Metalness.uasset",
+			"ChunkId": "65412672bc44ece700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminum_shkaaafc_2K_Metalness.ubulk",
+			"ChunkId": "65412672bc44ece700000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminum_shkaaafc_2K_Normal.uasset",
+			"ChunkId": "7e0d0fa8e8a6bb5a00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminum_shkaaafc_2K_Normal.ubulk",
+			"ChunkId": "7e0d0fa8e8a6bb5a00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminum_shkaaafc_2K_Roughness.uasset",
+			"ChunkId": "bf2bcc6c62e48edf00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminum_shkaaafc_2K_Roughness.ubulk",
+			"ChunkId": "bf2bcc6c62e48edf00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminumBack_Mat.uasset",
+			"ChunkId": "b1218633a92dfe8600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminumBackBorder_Mat.uasset",
+			"ChunkId": "2feb5b2a2a18ee4b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminumBorder_Mat.uasset",
+			"ChunkId": "7e7559b9773215d500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminumFace_Mat.uasset",
+			"ChunkId": "8bf2c4c188cb80eb00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminumFaceBorder_Mat.uasset",
+			"ChunkId": "84bb7b5e07add0fe00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/BrushedAluminumPole_Mat.uasset",
+			"ChunkId": "d1e7a3a13096231100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/X3SignCenterLine_Mat.uasset",
+			"ChunkId": "64f0e00ca1c2b4ca00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/X3SignCenterLine_N.uasset",
+			"ChunkId": "3ca906f05e64836f00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/X3SignCenterLine_N.ubulk",
+			"ChunkId": "3ca906f05e64836f00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/X3SignCenterLine_R.uasset",
+			"ChunkId": "7a94f7e954e1f82d00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/X3SignCenterLine_R.ubulk",
+			"ChunkId": "7a94f7e954e1f82d00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/X3SignCenterLine_Tex.uasset",
+			"ChunkId": "2516ba0198c9fd4100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Materials/Sign/X3SignCenterLine_Tex.ubulk",
+			"ChunkId": "2516ba0198c9fd4100000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/MenuWorld.uasset",
+			"ChunkId": "0a6084a86b2e1aab00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Meshes/OctaSign_SM.uasset",
+			"ChunkId": "a4d67212eafe630000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Meshes/OctaSign_SM.ubulk",
+			"ChunkId": "a4d67212eafe630000000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Meshes/RoundSign_SM.uasset",
+			"ChunkId": "0355fe8a985f8c4b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Meshes/RoundSign_SM.ubulk",
+			"ChunkId": "0355fe8a985f8c4b00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Meshes/SignSide_SM.uasset",
+			"ChunkId": "3a5eb8d48c49631000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Meshes/SignSide_SM.ubulk",
+			"ChunkId": "3a5eb8d48c49631000000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Meshes/SM_Txt.uasset",
+			"ChunkId": "64bc4b1b6a85099300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Meshes/SM_Txt.ubulk",
+			"ChunkId": "64bc4b1b6a85099300000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Meshes/SquareSign_SM.uasset",
+			"ChunkId": "0ade3d27d4df4a5a00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Meshes/SquareSign_SM.ubulk",
+			"ChunkId": "0ade3d27d4df4a5a00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Meshes/TriangleSign1m_SM.uasset",
+			"ChunkId": "7e5379a16c30e40c00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Meshes/TriangleSign1m_SM.ubulk",
+			"ChunkId": "7e5379a16c30e40c00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Misc/Desc_X3Sign_FoundationText.uasset",
+			"ChunkId": "4c4eb1b85eb3420800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/Misc/Recipe_X3Sign_FoundationText.uasset",
+			"ChunkId": "1eedfc9874172ac700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/UnlockX3SignsSchematic.uasset",
+			"ChunkId": "439bb9ac7b4806c400000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/UnlockX3SignsSchematic_OldSigns.uasset",
+			"ChunkId": "7ab915a6c59650b600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/CeilingConveyorSign/Desc_X3SignV2_CeilingConveyorSign.uasset",
+			"ChunkId": "1e632b0a678b6f0400000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/CeilingConveyorSign/Recipe_X3SignV2_CeilingConveyorSign.uasset",
+			"ChunkId": "9d5d80935b22d2ec00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/CeilingLargeSign/Desc_X3SignV2_CeilingLargeSign.uasset",
+			"ChunkId": "518dc9880847b8f100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/CeilingLargeSign/Recipe_X3SignV2_CeilingLargeSign.uasset",
+			"ChunkId": "b32a8deee22fc65a00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/CeilingMediumSign/Desc_X3SignV2_CeilingMediumSign.uasset",
+			"ChunkId": "9c46c526bea815df00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/CeilingMediumSign/Recipe_X3SignV2_CeilingMediumSign.uasset",
+			"ChunkId": "6522f52873e8f1a600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/ConveyorStackSign/Desc_X3SignV2_ConveyorStackSign.uasset",
+			"ChunkId": "de7f81efaf49c12300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/ConveyorStackSign/Recipe_X3SignV2_ConveyorStackSign.uasset",
+			"ChunkId": "6cb52df0bc53960000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/FloorConveyorSign/Desc_X3SignV2_FloorConveyorSign.uasset",
+			"ChunkId": "2f8a7070c6ccb7ca00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/FloorConveyorSign/Recipe_X3SignV2_FloorConveyorSign.uasset",
+			"ChunkId": "0865faebbaf7ff9c00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/FloorLargeSign/Desc_X3SignV2_FloorLargeSign.uasset",
+			"ChunkId": "e5907ed9700aa14100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/FloorLargeSign/Recipe_X3SignV2_FloorLargeSign.uasset",
+			"ChunkId": "346fdfa83248b00500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/FloorMediumSign/Desc_X3SignV2_FloorMediumSign.uasset",
+			"ChunkId": "364a72a2183c38f500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/FloorMediumSign/Recipe_X3SignV2_FloorMediumSign.uasset",
+			"ChunkId": "990807f2a7d4a50b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/WallFrontConveyorSign/Desc_X3SignV2_WallFrontConveyorSign.uasset",
+			"ChunkId": "59eb3f2458cf17f200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/WallFrontConveyorSign/Recipe_X3SignV2_WallFrontConveyorSign.uasset",
+			"ChunkId": "bd57dc086584670600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/WallFrontLargeSign/Desc_X3SignV2_WallFrontLargeSign.uasset",
+			"ChunkId": "3e0f51cbcd47d4ba00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/WallFrontLargeSign/Recipe_X3SignV2_WallFrontLargeSign.uasset",
+			"ChunkId": "9252bb71c7b22f5800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/WallFrontMediumSign/Desc_X3SignV2_WallFrontMediumSign.uasset",
+			"ChunkId": "bb0d31e5f9e0e8e700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/WallFrontMediumSign/Recipe_X3SignV2_WallFrontMediumSign.uasset",
+			"ChunkId": "6ee7be09cccd604100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/WallHoleConveyorSign/Desc_X3SignV2_WallHoleConveyorSign.uasset",
+			"ChunkId": "4e56c57f63de8fff00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/WallHoleConveyorSign/Recipe_X3SignV2_WallHoleConveyorSign.uasset",
+			"ChunkId": "2ab1db8ae4de35e500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/WallSideConveyorSign/Desc_X3SignV2_WallSideConveyorSign.uasset",
+			"ChunkId": "b9261b92243ad6df00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/WallSideConveyorSign/Recipe_X3SignV2_WallSideConveyorSign.uasset",
+			"ChunkId": "e5d6585e511139f000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/WallSideLargeSign/Desc_X3SignV2_WallSideLargeSign.uasset",
+			"ChunkId": "802018dd263aa1ff00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/WallSideLargeSign/Recipe_X3SignV2_WallSideLargeSign.uasset",
+			"ChunkId": "81d348c98e7752cf00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/WallSideMediumSign/Desc_X3SignV2_WallSideMediumSign.uasset",
+			"ChunkId": "81a6cddcfd9a941700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/v2/WallSideMediumSign/Recipe_X3SignV2_WallSideMediumSign.uasset",
+			"ChunkId": "c73f961b300c9ee100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallFront/WallFrontLarge/Desc_X3Sign_WallFrontLarge.uasset",
+			"ChunkId": "516e7b5a186c461c00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallFront/WallFrontLarge/Recipe_X3Sign_WallFrontLarge.uasset",
+			"ChunkId": "822c6d88ebc9b63500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallFront/WallFrontMedium/Desc_X3Sign_WallFrontMedium.uasset",
+			"ChunkId": "78a037ce782f86b300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallFront/WallFrontMedium/Recipe_X3Sign_WallFrontMedium.uasset",
+			"ChunkId": "e4d14c063247ed5d00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallFront/WallFrontSmall/Desc_X3Sign_WallFrontSmall.uasset",
+			"ChunkId": "9a18b0bf2152b9e900000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallFront/WallFrontSmall/Recipe_X3Sign_WallFrontSmall.uasset",
+			"ChunkId": "102c3ab0ef9511a200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallFront/WallFrontSmallConveyor/Desc_X3Sign_WallFrontSmallConveyor.uasset",
+			"ChunkId": "3d29c8f0668e9b2c00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallFront/WallFrontSmallConveyor/Recipe_X3Sign_WallFrontSmallConveyor.uasset",
+			"ChunkId": "b1724f33d6f258ff00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallSide/WallSideLarge/Desc_X3Sign_WallSideLarge.uasset",
+			"ChunkId": "f184a73c8bdb599200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallSide/WallSideLarge/Recipe_X3Sign_WallSideLarge.uasset",
+			"ChunkId": "389f83f6f75b6a1700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallSide/WallSideMedium/Desc_X3Sign_WallSideMedium.uasset",
+			"ChunkId": "46e08e17ab02e53500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallSide/WallSideMedium/Recipe_X3Sign_WallSideMedium.uasset",
+			"ChunkId": "fcc2aa8a4e5a945500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallSide/WallSideSmall/Desc_X3Sign_WallSideSmall.uasset",
+			"ChunkId": "bfe1c2d0dd57095200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallSide/WallSideSmall/Recipe_X3Sign_WallSideSmall.uasset",
+			"ChunkId": "303a0fe372f3333300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallSide/WallSideSmallConveyor/Desc_X3Sign_WallSideSmallConveyor.uasset",
+			"ChunkId": "ae2608a38e07345a00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/WallSide/WallSideSmallConveyor/Recipe_X3Sign_WallSideSmallConveyor.uasset",
+			"ChunkId": "64ecd059dead274400000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/X3SignFunctions.uasset",
+			"ChunkId": "e215504b3c9fae7000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/X3-Signs/Content/X3SignRemoteCallObject.uasset",
+			"ChunkId": "9ac4a8c4d02c8bd700000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/X3-Signs/Cats/BC_X3Signs",
+			"ExportBundleChunkIds": [
+				"ae4dc661e46aeaf800000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Cats/CatIconTest",
+			"ExportBundleChunkIds": [
+				"c05d9b94b591986900000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Cats/CatIconTestTransp",
+			"ExportBundleChunkIds": [
+				"837778ad2aaeeaea00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Cats/SC_X3SignsCeiling",
+			"ExportBundleChunkIds": [
+				"696f16625c670c0b00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Cats/SC_X3SignsFloor",
+			"ExportBundleChunkIds": [
+				"66881b45a2e461ce00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Cats/SC_X3SignsHighway",
+			"ExportBundleChunkIds": [
+				"92c17e6ad1a4289a00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Cats/SC_X3SignsV2_Conveyor",
+			"ExportBundleChunkIds": [
+				"f5369eed4f566e3e00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Cats/SC_X3SignsV2_Large",
+			"ExportBundleChunkIds": [
+				"0218aaf8abc4fea700000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Cats/SC_X3SignsV2_Medium",
+			"ExportBundleChunkIds": [
+				"aea206899c73c44000000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Cats/SC_X3SignsWall",
+			"ExportBundleChunkIds": [
+				"07d13d29a1bd6c7900000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Cats/SC_X3SignsWallSide",
+			"ExportBundleChunkIds": [
+				"9625a1874b2d40f400000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Cats/SC_X3SignsWallSide_v2__OLD",
+			"ExportBundleChunkIds": [
+				"4cec87ff28e86b7500000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Ceilling/CeillingLarge/BP_X3Sign_CeillingLarge"
+		},
+		{
+			"Name": "/X3-Signs/Ceilling/CeillingLarge/Desc_X3Sign_CeillingLarge",
+			"ExportBundleChunkIds": [
+				"fbbf9e467f8b4ad100000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Ceilling/CeillingLarge/Recipe_X3Sign_CeillingLarge",
+			"ExportBundleChunkIds": [
+				"36a0108435ed17f300000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Ceilling/CeillingMedium/BP_X3Sign_CeillingMedium"
+		},
+		{
+			"Name": "/X3-Signs/Ceilling/CeillingMedium/Desc_X3Sign_CeillingMedium",
+			"ExportBundleChunkIds": [
+				"3a0698f70383dfca00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Ceilling/CeillingMedium/Recipe_X3Sign_CeillingMedium",
+			"ExportBundleChunkIds": [
+				"fa32c33ab15cc5f000000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Ceilling/CeillingSmall/BP_X3Sign_CeillingSmall"
+		},
+		{
+			"Name": "/X3-Signs/Ceilling/CeillingSmall/Desc_X3Sign_CeillingSmall",
+			"ExportBundleChunkIds": [
+				"cb2eb62104a6873700000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Ceilling/CeillingSmall/Recipe_X3Sign_CeillingSmall",
+			"ExportBundleChunkIds": [
+				"5a675f3449c539cc00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Ceilling/CellingSmallConveyor/BP_X3Sign_CeillingSmallConveyor"
+		},
+		{
+			"Name": "/X3-Signs/Ceilling/CellingSmallConveyor/Desc_X3Sign_CeillingSmallConveyor",
+			"ExportBundleChunkIds": [
+				"f50070430acff85100000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Ceilling/CellingSmallConveyor/Recipe_X3Sign_CeillingSmallConveyor",
+			"ExportBundleChunkIds": [
+				"c759d8be63f4085d00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/CP_ColorPicker_AllSliders"
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/CP_ColorPicker_GradingWheel"
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/CP_ColorPicker_HSVSliders"
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/CP_ColorPicker_HueSlider"
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/CP_ColorPicker_RGBSliders"
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/CP_ColorPicker_ValueSlider"
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/CP_ColorPicker_Wheel"
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Demo/BasicDemoMat",
+			"ExportBundleChunkIds": [
+				"8cf5161f05ad3bfc00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Demo/DemoLevel",
+			"ExportBundleChunkIds": [
+				"bf1f36ebe1d0d79400000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Demo/DemoLevel_BuiltData",
+			"ExportBundleChunkIds": [
+				"0f3b91b5ba00870700000001"
+			],
+			"BulkDataChunkIds": [
+				"0f3b91b5ba00870700000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Demo/UMG_Demo",
+			"ExportBundleChunkIds": [
+				"98dcdb16c1f0336600000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/M_ColorGrading_MatInst",
+			"ExportBundleChunkIds": [
+				"d8a53bc3f2b4974b00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/M_HueGrading_mat",
+			"ExportBundleChunkIds": [
+				"1d022ef673b9fce800000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/M_LinearGradient_Blue_Inst",
+			"ExportBundleChunkIds": [
+				"2ec315f2badbede400000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/M_LinearGradient_Green_Inst",
+			"ExportBundleChunkIds": [
+				"a8f8d8259197a11600000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/M_LinearGradient_mat",
+			"ExportBundleChunkIds": [
+				"b13570eb4c02f61100000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/M_LinearGradient_Red_Inst",
+			"ExportBundleChunkIds": [
+				"9f458646a006e2fe00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/M_LinearGrading",
+			"ExportBundleChunkIds": [
+				"85fe5b5174e388df00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/M_LinearGrading_Dark_to_light_mat",
+			"ExportBundleChunkIds": [
+				"c643cc2f8eb3037100000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/M_LinearGrading_light_to_dark_mat",
+			"ExportBundleChunkIds": [
+				"235ec632ea650e3900000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/M_Selector_mat",
+			"ExportBundleChunkIds": [
+				"e160c64628a8c68700000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/M_Slider_Selector_mat_Inst",
+			"ExportBundleChunkIds": [
+				"6f5f5a604689be5200000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/M_SquareGrading_mat",
+			"ExportBundleChunkIds": [
+				"df8ae8971d6ac28300000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/T_circle_black_64",
+			"ExportBundleChunkIds": [
+				"c07e128ca500811b00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/T_Circle_Selector",
+			"ExportBundleChunkIds": [
+				"677babc76b09519200000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/T_ColorSpectrum",
+			"ExportBundleChunkIds": [
+				"8843d24a15e5359a00000001"
+			],
+			"BulkDataChunkIds": [
+				"8843d24a15e5359a00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/T_ColorWheel",
+			"ExportBundleChunkIds": [
+				"42dc58b7e4a7507700000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/T_double_outline_circle_black_64",
+			"ExportBundleChunkIds": [
+				"7e4ed472b5437fe400000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/T_HueGrading16",
+			"ExportBundleChunkIds": [
+				"48d6bec02c842d5b00000001"
+			],
+			"BulkDataChunkIds": [
+				"48d6bec02c842d5b00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/T_HueGrading32",
+			"ExportBundleChunkIds": [
+				"95d91e14621aa0a700000001"
+			],
+			"BulkDataChunkIds": [
+				"95d91e14621aa0a700000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/T_HueGrading64",
+			"ExportBundleChunkIds": [
+				"db379895e7bdcfcc00000001"
+			],
+			"BulkDataChunkIds": [
+				"db379895e7bdcfcc00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/T_HueSatGrading",
+			"ExportBundleChunkIds": [
+				"0ec7b5922660aba700000001"
+			],
+			"BulkDataChunkIds": [
+				"0ec7b5922660aba700000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/T_HueWheel",
+			"ExportBundleChunkIds": [
+				"73bbdce5c757e44f00000001"
+			],
+			"BulkDataChunkIds": [
+				"73bbdce5c757e44f00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/T_outline_circle_black_thicker_64",
+			"ExportBundleChunkIds": [
+				"9b797859eb6a65bb00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/T_rounded_rect_white",
+			"ExportBundleChunkIds": [
+				"e75e48ee409b00ba00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/T_rounded_square_black_64",
+			"ExportBundleChunkIds": [
+				"93be42ac526fa13d00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/Materials/T_smaller_circle_black_128",
+			"ExportBundleChunkIds": [
+				"6ee4c61690d0258100000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/SubComponents/CP_SC_2CmpPicker",
+			"ExportBundleChunkIds": [
+				"8e104f923d6a615100000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/SubComponents/CP_SC_BaseColorPicker",
+			"ExportBundleChunkIds": [
+				"ef422e5d3a6ace2b00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/SubComponents/CP_SC_BaseSelector",
+			"ExportBundleChunkIds": [
+				"ef7e47760cbac72900000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/SubComponents/CP_SC_HueColorWheelPicker",
+			"ExportBundleChunkIds": [
+				"980bfcc49695b86200000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/SubComponents/CP_SC_HueSatRectPicker"
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/SubComponents/CP_SC_HueSatWheelPicker"
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/SubComponents/CP_SC_HueSlider_H",
+			"ExportBundleChunkIds": [
+				"0962aca45548e75b00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/SubComponents/CP_SC_RGBSlider_H",
+			"ExportBundleChunkIds": [
+				"7b38383a63d8c8dd00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/SubComponents/CP_SC_SatSlider_H",
+			"ExportBundleChunkIds": [
+				"c0ee159870fba47900000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/SubComponents/CP_SC_SatValueRectPicker"
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/SubComponents/CP_SC_SelectorDrag",
+			"ExportBundleChunkIds": [
+				"41fe42a43143291b00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/SubComponents/CP_SC_ValueSlider_H",
+			"ExportBundleChunkIds": [
+				"61a2f8ced4d22bba00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/ColorPickers/SubComponents/EColorChannel",
+			"ExportBundleChunkIds": [
+				"de4a19ce054f441700000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorCenter/BP_X3Sign_FloorCenter"
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorCenter/Desc_X3Sign_FloorCenter",
+			"ExportBundleChunkIds": [
+				"171f16eecab0fc6c00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorCenter/Recipe_X3Sign_FloorCenter",
+			"ExportBundleChunkIds": [
+				"6b6e44bd3ecf698200000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorHighwayExtraLarge/BP_X3Sign_FloorHighwayExtraLarge"
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorHighwayExtraLarge/Desc_X3Sign_FloorHighwayExtraLarge",
+			"ExportBundleChunkIds": [
+				"9a7dc079d4d3f1f600000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorHighwayExtraLarge/Recipe_X3Sign_FloorHighwayExtraLarge",
+			"ExportBundleChunkIds": [
+				"d52e43414f1b14e600000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorHighwayLarge/BP_X3Sign_FloorHighwayLarge"
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorHighwayLarge/Desc_X3Sign_FloorHighwayLarge",
+			"ExportBundleChunkIds": [
+				"990161f405ec276a00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorHighwayLarge/Recipe_X3Sign_FloorHighwayLarge",
+			"ExportBundleChunkIds": [
+				"3bf27d33b026b16800000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorHighwayMedium/BP_X3Sign_FloorHighwayMedium"
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorHighwayMedium/Desc_X3Sign_FloorHighwayMedium",
+			"ExportBundleChunkIds": [
+				"a740d743d18bec6d00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorHighwayMedium/Recipe_X3Sign_FloorHighwayMedium",
+			"ExportBundleChunkIds": [
+				"dc84855f91a8f95800000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorHighwaySmall/BP_X3Sign_FloorHighwaySmall"
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorHighwaySmall/Desc_X3Sign_FloorHighwaySmall",
+			"ExportBundleChunkIds": [
+				"cec366f13c0cd7fd00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorHighwaySmall/Recipe_X3Sign_FloorHighwaySmall",
+			"ExportBundleChunkIds": [
+				"9d18ab0e58e54e6a00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorLarge/BP_X3Sign_FloorLarge"
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorLarge/Desc_X3Sign_FloorLarge",
+			"ExportBundleChunkIds": [
+				"a81359b64da2b76f00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorLarge/Recipe_X3Sign_FloorLarge",
+			"ExportBundleChunkIds": [
+				"c5862f9fd404429300000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorMedium/BP_X3Sign_FloorMedium"
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorMedium/Desc_X3Sign_FloorMedium",
+			"ExportBundleChunkIds": [
+				"8a9520e5e2bf63b700000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorMedium/Recipe_X3Sign_FloorMedium",
+			"ExportBundleChunkIds": [
+				"dd29f87671ab52fe00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorSmall/BP_X3Sign_FloorSmall"
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorSmall/Desc_X3Sign_FloorSmall",
+			"ExportBundleChunkIds": [
+				"175ab4feaeeae3d100000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorSmall/Recipe_X3Sign_FloorSmall",
+			"ExportBundleChunkIds": [
+				"eef46a1112956cf500000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorSmallConveyor/BP_X3Sign_FloorSmallConveyor"
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorSmallConveyor/Desc_X3Sign_FloorSmallConveyor",
+			"ExportBundleChunkIds": [
+				"db074bdc3518763300000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Floor/FloorSmallConveyor/Recipe_X3Sign_FloorSmallConveyor",
+			"ExportBundleChunkIds": [
+				"b27ff1080f67357600000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icon_X3Signs_Mk1",
+			"ExportBundleChunkIds": [
+				"05b37ec665cfebdb00000001"
+			],
+			"BulkDataChunkIds": [
+				"05b37ec665cfebdb00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/v2/X3SignV2_buildmenu",
+			"ExportBundleChunkIds": [
+				"c569af94d5e6bf5600000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/v2/X3SignV2_Conveyor_CeilingT",
+			"ExportBundleChunkIds": [
+				"a68acd3310661dec00000001"
+			],
+			"BulkDataChunkIds": [
+				"a68acd3310661dec00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/v2/X3SignV2_Conveyor_FloorT",
+			"ExportBundleChunkIds": [
+				"5ab61023987d1b8f00000001"
+			],
+			"BulkDataChunkIds": [
+				"5ab61023987d1b8f00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/v2/X3SignV2_Conveyor_FrontT",
+			"ExportBundleChunkIds": [
+				"e5ffebfddfd1939200000001"
+			],
+			"BulkDataChunkIds": [
+				"e5ffebfddfd1939200000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/v2/X3SignV2_Conveyor_HoleT",
+			"ExportBundleChunkIds": [
+				"f26f2c51a1259fc000000001"
+			],
+			"BulkDataChunkIds": [
+				"f26f2c51a1259fc000000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/v2/X3SignV2_Conveyor_SideT",
+			"ExportBundleChunkIds": [
+				"324100fd1558186400000001"
+			],
+			"BulkDataChunkIds": [
+				"324100fd1558186400000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/v2/X3SignV2_Conveyor_StackT",
+			"ExportBundleChunkIds": [
+				"16aed77f35d91a5b00000001"
+			],
+			"BulkDataChunkIds": [
+				"16aed77f35d91a5b00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/v2/X3SignV2_Large_CeilingT",
+			"ExportBundleChunkIds": [
+				"fc7e5ea539fe9c7500000001"
+			],
+			"BulkDataChunkIds": [
+				"fc7e5ea539fe9c7500000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/v2/X3SignV2_Large_FloorT",
+			"ExportBundleChunkIds": [
+				"05581cb7fbdd0ef100000001"
+			],
+			"BulkDataChunkIds": [
+				"05581cb7fbdd0ef100000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/v2/X3SignV2_Large_FrontT",
+			"ExportBundleChunkIds": [
+				"a178566174d3cd4100000001"
+			],
+			"BulkDataChunkIds": [
+				"a178566174d3cd4100000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/v2/X3SignV2_Large_SideT",
+			"ExportBundleChunkIds": [
+				"ed8fd869bcf3f30e00000001"
+			],
+			"BulkDataChunkIds": [
+				"ed8fd869bcf3f30e00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/v2/X3SignV2_Medium_CeilingT",
+			"ExportBundleChunkIds": [
+				"3825aaadb9f27d3500000001"
+			],
+			"BulkDataChunkIds": [
+				"3825aaadb9f27d3500000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/v2/X3SignV2_Medium_FloorT",
+			"ExportBundleChunkIds": [
+				"0b78e6ba1b952d4300000001"
+			],
+			"BulkDataChunkIds": [
+				"0b78e6ba1b952d4300000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/v2/X3SignV2_Medium_FrontT",
+			"ExportBundleChunkIds": [
+				"28080d343b426a4700000001"
+			],
+			"BulkDataChunkIds": [
+				"28080d343b426a4700000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/v2/X3SignV2_Medium_SideT",
+			"ExportBundleChunkIds": [
+				"3f509f43a06824e700000001"
+			],
+			"BulkDataChunkIds": [
+				"3f509f43a06824e700000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_CeillingLarge",
+			"ExportBundleChunkIds": [
+				"6d900137ac29753800000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_CeillingMedium",
+			"ExportBundleChunkIds": [
+				"d56388a5ff55ddf900000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_CeillingSmall",
+			"ExportBundleChunkIds": [
+				"3137e10d73d9b5da00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_CeillingSmallConveyor",
+			"ExportBundleChunkIds": [
+				"96a39b7dc151293600000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_FloorCenter",
+			"ExportBundleChunkIds": [
+				"50c110cb50b339d300000001"
+			],
+			"BulkDataChunkIds": [
+				"50c110cb50b339d300000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_FloorHighwayExtraLarge",
+			"ExportBundleChunkIds": [
+				"81abd41a756947c300000001"
+			],
+			"BulkDataChunkIds": [
+				"81abd41a756947c300000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_FloorHighwayLarge",
+			"ExportBundleChunkIds": [
+				"e77ea4b15758077c00000001"
+			],
+			"BulkDataChunkIds": [
+				"e77ea4b15758077c00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_FloorHighwayMedium",
+			"ExportBundleChunkIds": [
+				"81b2d14bedc3d8fb00000001"
+			],
+			"BulkDataChunkIds": [
+				"81b2d14bedc3d8fb00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_FloorHighwaySmall",
+			"ExportBundleChunkIds": [
+				"e3959e39d583905a00000001"
+			],
+			"BulkDataChunkIds": [
+				"e3959e39d583905a00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_FloorLarge",
+			"ExportBundleChunkIds": [
+				"8366404b6af1af5b00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_FloorMedium",
+			"ExportBundleChunkIds": [
+				"2ddd57d63e2521c800000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_FloorSmall",
+			"ExportBundleChunkIds": [
+				"f1e54b64fe0a91dd00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_FloorSmallConveyor",
+			"ExportBundleChunkIds": [
+				"02e46961323be9b000000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_WallFrontLarge",
+			"ExportBundleChunkIds": [
+				"3b47b72533b00b4500000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_WallFrontMedium",
+			"ExportBundleChunkIds": [
+				"1fdebf7f684ecbd700000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_WallFrontSmall",
+			"ExportBundleChunkIds": [
+				"3dfa4190fb6d4e0f00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_WallFrontSmallConveyor",
+			"ExportBundleChunkIds": [
+				"9c8f2c19f3f02aad00000001"
+			],
+			"BulkDataChunkIds": [
+				"9c8f2c19f3f02aad00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_WallSideLarge",
+			"ExportBundleChunkIds": [
+				"43220c8c556dbdf000000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_WallSideMedium",
+			"ExportBundleChunkIds": [
+				"c93e834b42c8218b00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_WallSideSmall",
+			"ExportBundleChunkIds": [
+				"16c655e348b5537700000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Icons/X3Sign_WallSideSmallConveyor",
+			"ExportBundleChunkIds": [
+				"feb65a34cd63955500000001"
+			],
+			"BulkDataChunkIds": [
+				"feb65a34cd63955500000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/InitGameInstance",
+			"ExportBundleChunkIds": [
+				"1e1ad74300de041000000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/InitGameWorld",
+			"ExportBundleChunkIds": [
+				"0ccb6b2e520a46c600000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/logo_app2",
+			"ExportBundleChunkIds": [
+				"60ef250548ff573c00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Master/BP_X3Sign",
+			"ExportBundleChunkIds": [
+				"c73d1065acc58d5d00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Master/Enum_SignShape",
+			"ExportBundleChunkIds": [
+				"17a8110b6650551400000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Master/M2CBold",
+			"ExportBundleChunkIds": [
+				"9b756756b446a7cd00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Master/M2CBold_Font",
+			"ExportBundleChunkIds": [
+				"944df65f0095146200000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Master/M2CBold_Font_TextMaterial",
+			"ExportBundleChunkIds": [
+				"cd0d118a403cf28800000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Master/SignConfig",
+			"ExportBundleChunkIds": [
+				"e39d5b31918e77aa00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Master/SignConfigSaveGame",
+			"ExportBundleChunkIds": [
+				"61992a4787635bcc00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Master/SignSettingsStruct",
+			"ExportBundleChunkIds": [
+				"d5138b7f6ce307ab00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Master/Widget_X3Sign",
+			"ExportBundleChunkIds": [
+				"94301ae51f9acd0f00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/ArrowHelper/X3SignsArrowHelperMat",
+			"ExportBundleChunkIds": [
+				"0d1578bbcce54ea100000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/ArrowHelper/X3SignsArrowHelperTex",
+			"ExportBundleChunkIds": [
+				"d96c8bba1ab6747d00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Pole/ScratchedPaintedSteel_Mat",
+			"ExportBundleChunkIds": [
+				"c5a407d858cfe8cd00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Pole/ScratchedPaintedSteel_sefndiic_2K_Albedo",
+			"ExportBundleChunkIds": [
+				"4d356b45a77c2f8300000001"
+			],
+			"BulkDataChunkIds": [
+				"4d356b45a77c2f8300000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Pole/ScratchedPaintedSteel_sefndiic_2K_Displacement",
+			"ExportBundleChunkIds": [
+				"4598027fd5c4dd5000000001"
+			],
+			"BulkDataChunkIds": [
+				"4598027fd5c4dd5000000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Pole/ScratchedPaintedSteel_sefndiic_2K_Metalness",
+			"ExportBundleChunkIds": [
+				"f42e56aeac7eb09a00000001"
+			],
+			"BulkDataChunkIds": [
+				"f42e56aeac7eb09a00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Pole/ScratchedPaintedSteel_sefndiic_2K_Normal",
+			"ExportBundleChunkIds": [
+				"442088327d12d58b00000001"
+			],
+			"BulkDataChunkIds": [
+				"442088327d12d58b00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Pole/ScratchedPaintedSteel_sefndiic_2K_Roughness",
+			"ExportBundleChunkIds": [
+				"a170dbdce1627d2b00000001"
+			],
+			"BulkDataChunkIds": [
+				"a170dbdce1627d2b00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Pole/T_Imperfections_Stains_Mask",
+			"ExportBundleChunkIds": [
+				"ba7586dc58d82bd600000001"
+			],
+			"BulkDataChunkIds": [
+				"ba7586dc58d82bd600000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Pole/T_Imperfections_Wipe_Mask",
+			"ExportBundleChunkIds": [
+				"9bcc4375a62d9edd00000001"
+			],
+			"BulkDataChunkIds": [
+				"9bcc4375a62d9edd00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Pole/T_Steel_Brushed_BC",
+			"ExportBundleChunkIds": [
+				"039b95f9cf1c7fad00000001"
+			],
+			"BulkDataChunkIds": [
+				"039b95f9cf1c7fad00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Pole/T_Steel_Brushed_Mat",
+			"ExportBundleChunkIds": [
+				"7a499e5b69cbfbe700000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Pole/T_Steel_Brushed_N",
+			"ExportBundleChunkIds": [
+				"f93464e76c55030800000001"
+			],
+			"BulkDataChunkIds": [
+				"f93464e76c55030800000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Pole/T_Steel_Brushed_R",
+			"ExportBundleChunkIds": [
+				"ec71a068b944693b00000001"
+			],
+			"BulkDataChunkIds": [
+				"ec71a068b944693b00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/BrushedAluminum_DynamicBG_Mat",
+			"ExportBundleChunkIds": [
+				"7477bbe48469a22d00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/BrushedAluminum_Mat",
+			"ExportBundleChunkIds": [
+				"9f60038a17575ef100000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/BrushedAluminum_shkaaafc_2K_Albedo",
+			"ExportBundleChunkIds": [
+				"6d3899647185014c00000001"
+			],
+			"BulkDataChunkIds": [
+				"6d3899647185014c00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/BrushedAluminum_shkaaafc_2K_Metalness",
+			"ExportBundleChunkIds": [
+				"65412672bc44ece700000001"
+			],
+			"BulkDataChunkIds": [
+				"65412672bc44ece700000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/BrushedAluminum_shkaaafc_2K_Normal",
+			"ExportBundleChunkIds": [
+				"7e0d0fa8e8a6bb5a00000001"
+			],
+			"BulkDataChunkIds": [
+				"7e0d0fa8e8a6bb5a00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/BrushedAluminum_shkaaafc_2K_Roughness",
+			"ExportBundleChunkIds": [
+				"bf2bcc6c62e48edf00000001"
+			],
+			"BulkDataChunkIds": [
+				"bf2bcc6c62e48edf00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/BrushedAluminumBack_Mat",
+			"ExportBundleChunkIds": [
+				"b1218633a92dfe8600000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/BrushedAluminumBackBorder_Mat",
+			"ExportBundleChunkIds": [
+				"2feb5b2a2a18ee4b00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/BrushedAluminumBorder_Mat",
+			"ExportBundleChunkIds": [
+				"7e7559b9773215d500000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/BrushedAluminumFace_Mat",
+			"ExportBundleChunkIds": [
+				"8bf2c4c188cb80eb00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/BrushedAluminumFaceBorder_Mat",
+			"ExportBundleChunkIds": [
+				"84bb7b5e07add0fe00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/BrushedAluminumPole_Mat",
+			"ExportBundleChunkIds": [
+				"d1e7a3a13096231100000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/X3SignCenterLine_Mat",
+			"ExportBundleChunkIds": [
+				"64f0e00ca1c2b4ca00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/X3SignCenterLine_N",
+			"ExportBundleChunkIds": [
+				"3ca906f05e64836f00000001"
+			],
+			"BulkDataChunkIds": [
+				"3ca906f05e64836f00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/X3SignCenterLine_R",
+			"ExportBundleChunkIds": [
+				"7a94f7e954e1f82d00000001"
+			],
+			"BulkDataChunkIds": [
+				"7a94f7e954e1f82d00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Materials/Sign/X3SignCenterLine_Tex",
+			"ExportBundleChunkIds": [
+				"2516ba0198c9fd4100000001"
+			],
+			"BulkDataChunkIds": [
+				"2516ba0198c9fd4100000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/MenuWorld",
+			"ExportBundleChunkIds": [
+				"0a6084a86b2e1aab00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Meshes/OctaSign_SM",
+			"ExportBundleChunkIds": [
+				"a4d67212eafe630000000001"
+			],
+			"BulkDataChunkIds": [
+				"a4d67212eafe630000000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Meshes/RoundSign_SM",
+			"ExportBundleChunkIds": [
+				"0355fe8a985f8c4b00000001"
+			],
+			"BulkDataChunkIds": [
+				"0355fe8a985f8c4b00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Meshes/SignSide_SM",
+			"ExportBundleChunkIds": [
+				"3a5eb8d48c49631000000001"
+			],
+			"BulkDataChunkIds": [
+				"3a5eb8d48c49631000000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Meshes/SM_Txt",
+			"ExportBundleChunkIds": [
+				"64bc4b1b6a85099300000001"
+			],
+			"BulkDataChunkIds": [
+				"64bc4b1b6a85099300000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Meshes/SquareSign_SM",
+			"ExportBundleChunkIds": [
+				"0ade3d27d4df4a5a00000001"
+			],
+			"BulkDataChunkIds": [
+				"0ade3d27d4df4a5a00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Meshes/TriangleSign1m_SM",
+			"ExportBundleChunkIds": [
+				"7e5379a16c30e40c00000001"
+			],
+			"BulkDataChunkIds": [
+				"7e5379a16c30e40c00000002"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Misc/BP_X3Sign_FoundationText"
+		},
+		{
+			"Name": "/X3-Signs/Misc/Desc_X3Sign_FoundationText",
+			"ExportBundleChunkIds": [
+				"4c4eb1b85eb3420800000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/Misc/Recipe_X3Sign_FoundationText",
+			"ExportBundleChunkIds": [
+				"1eedfc9874172ac700000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/UnlockX3SignsSchematic",
+			"ExportBundleChunkIds": [
+				"439bb9ac7b4806c400000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/UnlockX3SignsSchematic_OldSigns",
+			"ExportBundleChunkIds": [
+				"7ab915a6c59650b600000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/CeilingConveyorSign/BP_X3SignV2_CeilingConveyorSign"
+		},
+		{
+			"Name": "/X3-Signs/v2/CeilingConveyorSign/Desc_X3SignV2_CeilingConveyorSign",
+			"ExportBundleChunkIds": [
+				"1e632b0a678b6f0400000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/CeilingConveyorSign/Recipe_X3SignV2_CeilingConveyorSign",
+			"ExportBundleChunkIds": [
+				"9d5d80935b22d2ec00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/CeilingLargeSign/BP_X3SignV2_CeilingLargeSign"
+		},
+		{
+			"Name": "/X3-Signs/v2/CeilingLargeSign/Desc_X3SignV2_CeilingLargeSign",
+			"ExportBundleChunkIds": [
+				"518dc9880847b8f100000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/CeilingLargeSign/Recipe_X3SignV2_CeilingLargeSign",
+			"ExportBundleChunkIds": [
+				"b32a8deee22fc65a00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/CeilingMediumSign/BP_X3SignV2_CeilingMediumSign"
+		},
+		{
+			"Name": "/X3-Signs/v2/CeilingMediumSign/Desc_X3SignV2_CeilingMediumSign",
+			"ExportBundleChunkIds": [
+				"9c46c526bea815df00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/CeilingMediumSign/Recipe_X3SignV2_CeilingMediumSign",
+			"ExportBundleChunkIds": [
+				"6522f52873e8f1a600000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/ConveyorStackSign/BP_X3SignV2_ConveyorStackSign"
+		},
+		{
+			"Name": "/X3-Signs/v2/ConveyorStackSign/Desc_X3SignV2_ConveyorStackSign",
+			"ExportBundleChunkIds": [
+				"de7f81efaf49c12300000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/ConveyorStackSign/Recipe_X3SignV2_ConveyorStackSign",
+			"ExportBundleChunkIds": [
+				"6cb52df0bc53960000000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/FloorConveyorSign/BP_X3SignV2_FloorConveyorSign"
+		},
+		{
+			"Name": "/X3-Signs/v2/FloorConveyorSign/Desc_X3SignV2_FloorConveyorSign",
+			"ExportBundleChunkIds": [
+				"2f8a7070c6ccb7ca00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/FloorConveyorSign/Recipe_X3SignV2_FloorConveyorSign",
+			"ExportBundleChunkIds": [
+				"0865faebbaf7ff9c00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/FloorLargeSign/BP_X3SignV2_FloorLargeSign"
+		},
+		{
+			"Name": "/X3-Signs/v2/FloorLargeSign/Desc_X3SignV2_FloorLargeSign",
+			"ExportBundleChunkIds": [
+				"e5907ed9700aa14100000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/FloorLargeSign/Recipe_X3SignV2_FloorLargeSign",
+			"ExportBundleChunkIds": [
+				"346fdfa83248b00500000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/FloorMediumSign/BP_X3SignV2_FloorMediumSign"
+		},
+		{
+			"Name": "/X3-Signs/v2/FloorMediumSign/Desc_X3SignV2_FloorMediumSign",
+			"ExportBundleChunkIds": [
+				"364a72a2183c38f500000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/FloorMediumSign/Recipe_X3SignV2_FloorMediumSign",
+			"ExportBundleChunkIds": [
+				"990807f2a7d4a50b00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/WallFrontConveyorSign/BP_X3SignV2_WallFrontConveyorSign"
+		},
+		{
+			"Name": "/X3-Signs/v2/WallFrontConveyorSign/Desc_X3SignV2_WallFrontConveyorSign",
+			"ExportBundleChunkIds": [
+				"59eb3f2458cf17f200000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/WallFrontConveyorSign/Recipe_X3SignV2_WallFrontConveyorSign",
+			"ExportBundleChunkIds": [
+				"bd57dc086584670600000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/WallFrontLargeSign/BP_X3SignV2_WallFrontLargeSign"
+		},
+		{
+			"Name": "/X3-Signs/v2/WallFrontLargeSign/Desc_X3SignV2_WallFrontLargeSign",
+			"ExportBundleChunkIds": [
+				"3e0f51cbcd47d4ba00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/WallFrontLargeSign/Recipe_X3SignV2_WallFrontLargeSign",
+			"ExportBundleChunkIds": [
+				"9252bb71c7b22f5800000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/WallFrontMediumSign/BP_X3SignV2_WallFrontMediumSign"
+		},
+		{
+			"Name": "/X3-Signs/v2/WallFrontMediumSign/Desc_X3SignV2_WallFrontMediumSign",
+			"ExportBundleChunkIds": [
+				"bb0d31e5f9e0e8e700000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/WallFrontMediumSign/Recipe_X3SignV2_WallFrontMediumSign",
+			"ExportBundleChunkIds": [
+				"6ee7be09cccd604100000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/WallHoleConveyorSign/BP_X3SignV2_WallHoleConveyorSign"
+		},
+		{
+			"Name": "/X3-Signs/v2/WallHoleConveyorSign/Desc_X3SignV2_WallHoleConveyorSign",
+			"ExportBundleChunkIds": [
+				"4e56c57f63de8fff00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/WallHoleConveyorSign/Recipe_X3SignV2_WallHoleConveyorSign",
+			"ExportBundleChunkIds": [
+				"2ab1db8ae4de35e500000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/WallSideConveyorSign/BP_X3SignV2_WallSideConveyorSign"
+		},
+		{
+			"Name": "/X3-Signs/v2/WallSideConveyorSign/Desc_X3SignV2_WallSideConveyorSign",
+			"ExportBundleChunkIds": [
+				"b9261b92243ad6df00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/WallSideConveyorSign/Recipe_X3SignV2_WallSideConveyorSign",
+			"ExportBundleChunkIds": [
+				"e5d6585e511139f000000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/WallSideLargeSign/BP_X3SignV2_WallSideLargeSign"
+		},
+		{
+			"Name": "/X3-Signs/v2/WallSideLargeSign/Desc_X3SignV2_WallSideLargeSign",
+			"ExportBundleChunkIds": [
+				"802018dd263aa1ff00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/WallSideLargeSign/Recipe_X3SignV2_WallSideLargeSign",
+			"ExportBundleChunkIds": [
+				"81d348c98e7752cf00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/WallSideMediumSign/BP_X3SignV2_WallSideMediumSign"
+		},
+		{
+			"Name": "/X3-Signs/v2/WallSideMediumSign/Desc_X3SignV2_WallSideMediumSign",
+			"ExportBundleChunkIds": [
+				"81a6cddcfd9a941700000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/v2/WallSideMediumSign/Recipe_X3SignV2_WallSideMediumSign",
+			"ExportBundleChunkIds": [
+				"c73f961b300c9ee100000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallFront/WallFrontLarge/BP_X3Sign_WallFrontLarge"
+		},
+		{
+			"Name": "/X3-Signs/WallFront/WallFrontLarge/Desc_X3Sign_WallFrontLarge",
+			"ExportBundleChunkIds": [
+				"516e7b5a186c461c00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallFront/WallFrontLarge/Recipe_X3Sign_WallFrontLarge",
+			"ExportBundleChunkIds": [
+				"822c6d88ebc9b63500000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallFront/WallFrontMedium/BP_X3Sign_WallFrontMedium"
+		},
+		{
+			"Name": "/X3-Signs/WallFront/WallFrontMedium/Desc_X3Sign_WallFrontMedium",
+			"ExportBundleChunkIds": [
+				"78a037ce782f86b300000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallFront/WallFrontMedium/Recipe_X3Sign_WallFrontMedium",
+			"ExportBundleChunkIds": [
+				"e4d14c063247ed5d00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallFront/WallFrontSmall/BP_X3Sign_WallFrontSmall"
+		},
+		{
+			"Name": "/X3-Signs/WallFront/WallFrontSmall/Desc_X3Sign_WallFrontSmall",
+			"ExportBundleChunkIds": [
+				"9a18b0bf2152b9e900000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallFront/WallFrontSmall/Recipe_X3Sign_WallFrontSmall",
+			"ExportBundleChunkIds": [
+				"102c3ab0ef9511a200000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallFront/WallFrontSmallConveyor/BP_X3Sign_WallFrontSmallConveyor"
+		},
+		{
+			"Name": "/X3-Signs/WallFront/WallFrontSmallConveyor/Desc_X3Sign_WallFrontSmallConveyor",
+			"ExportBundleChunkIds": [
+				"3d29c8f0668e9b2c00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallFront/WallFrontSmallConveyor/Recipe_X3Sign_WallFrontSmallConveyor",
+			"ExportBundleChunkIds": [
+				"b1724f33d6f258ff00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallSide/WallSideLarge/BP_X3Sign_WallSideLarge"
+		},
+		{
+			"Name": "/X3-Signs/WallSide/WallSideLarge/Desc_X3Sign_WallSideLarge",
+			"ExportBundleChunkIds": [
+				"f184a73c8bdb599200000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallSide/WallSideLarge/Recipe_X3Sign_WallSideLarge",
+			"ExportBundleChunkIds": [
+				"389f83f6f75b6a1700000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallSide/WallSideMedium/BP_X3Sign_WallSideMedium"
+		},
+		{
+			"Name": "/X3-Signs/WallSide/WallSideMedium/Desc_X3Sign_WallSideMedium",
+			"ExportBundleChunkIds": [
+				"46e08e17ab02e53500000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallSide/WallSideMedium/Recipe_X3Sign_WallSideMedium",
+			"ExportBundleChunkIds": [
+				"fcc2aa8a4e5a945500000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallSide/WallSideSmall/BP_X3Sign_WallSideSmall"
+		},
+		{
+			"Name": "/X3-Signs/WallSide/WallSideSmall/Desc_X3Sign_WallSideSmall",
+			"ExportBundleChunkIds": [
+				"bfe1c2d0dd57095200000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallSide/WallSideSmall/Recipe_X3Sign_WallSideSmall",
+			"ExportBundleChunkIds": [
+				"303a0fe372f3333300000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallSide/WallSideSmallConveyor/BP_X3Sign_WallSideSmallConveyor"
+		},
+		{
+			"Name": "/X3-Signs/WallSide/WallSideSmallConveyor/Desc_X3Sign_WallSideSmallConveyor",
+			"ExportBundleChunkIds": [
+				"ae2608a38e07345a00000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/WallSide/WallSideSmallConveyor/Recipe_X3Sign_WallSideSmallConveyor",
+			"ExportBundleChunkIds": [
+				"64ecd059dead274400000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/X3SignFunctions",
+			"ExportBundleChunkIds": [
+				"e215504b3c9fae7000000001"
+			]
+		},
+		{
+			"Name": "/X3-Signs/X3SignRemoteCallObject",
+			"ExportBundleChunkIds": [
+				"9ac4a8c4d02c8bd700000001"
+			]
+		}
+	]
+}
